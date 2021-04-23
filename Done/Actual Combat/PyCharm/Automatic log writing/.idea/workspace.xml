@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90289d3f-319f-4c07-9f27-d290c2d35f03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Automatic log writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automatic log writing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Read/Oracle/基于Oracle的SQL优化/.ipynb_checkpoints/优化器的基础知识-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Read/Oracle/基于Oracle的SQL优化/.ipynb_checkpoints/优化器的基础知识-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Read/Oracle/基于Oracle的SQL优化/优化器的基础知识.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Read/Oracle/基于Oracle的SQL优化/优化器的基础知识.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +65,8 @@
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../README.md" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,6 +152,18 @@
       <workItem from="1612122875168" duration="2616000" />
       <workItem from="1612772071841" duration="1289000" />
       <workItem from="1613604570511" duration="1394000" />
+      <workItem from="1613948633079" duration="3295000" />
+      <workItem from="1614555583927" duration="1708000" />
+      <workItem from="1614577842438" duration="81000" />
+      <workItem from="1615161157989" duration="2242000" />
+      <workItem from="1615764257775" duration="3077000" />
+      <workItem from="1616369541062" duration="1475000" />
+      <workItem from="1617061332532" duration="2662000" />
+      <workItem from="1617321544298" duration="3214000" />
+      <workItem from="1618184750073" duration="1545000" />
+      <workItem from="1618212800155" duration="2588000" />
+      <workItem from="1618790361266" duration="1960000" />
+      <workItem from="1618966634375" duration="409000" />
     </task>
     <servers />
   </component>
@@ -173,6 +184,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Automatic_log_writing$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1613605390587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automatic_log_writing$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1618794552446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
