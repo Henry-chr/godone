@@ -182,7 +182,7 @@ def f_logon(*list):
                 # driver.find_element_by_xpath('//*[@id="calendar"]/tbody/tr[1]/th/p[1]/img').click()
                 #     driver.find_element_by_xpath(date_div).click()
                 # // *[ @ id = "calendar"] / tbody / tr[1] / th / p[1] / img
-                driver.find_element_by_xpath('//*[@id="23"]').click()
+                # driver.find_element_by_xpath('//*[@id="26"]').click()
                 # '//*[@id="calendar"]/tbody/tr[8]/td[2]/div'
                 # //*[@id="23"]
                 # driver.find_element_by_id('2').click()
