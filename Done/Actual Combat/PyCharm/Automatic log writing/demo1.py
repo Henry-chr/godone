@@ -20,7 +20,7 @@ import time
 
 def f_dbconnect():
     '''访问数据库提取用户信息'''
-    con = sqlite3.connect("testsqlite.db")  # 创建连接
+    con = sqlite3.connect(r"E:\GitHub repositories\godone\Done\Actual Combat\PyCharm\Automatic log writing\testsqlite.db")  # 创建连接
     cursor = con.cursor()  # 创建游标
     # cursor.execute("select * from automatic_logon_user t where t.user_id = 171330")
     cursor.execute(
@@ -182,7 +182,7 @@ def f_logon(*list):
                 # driver.find_element_by_xpath('//*[@id="calendar"]/tbody/tr[1]/th/p[1]/img').click()
                 #     driver.find_element_by_xpath(date_div).click()
                 # // *[ @ id = "calendar"] / tbody / tr[1] / th / p[1] / img
-                # driver.find_element_by_xpath('//*[@id="26"]').click()
+                driver.find_element_by_xpath('//*[@id="30"]').click()
                 # '//*[@id="calendar"]/tbody/tr[8]/td[2]/div'
                 # //*[@id="23"]
                 # driver.find_element_by_id('2').click()
